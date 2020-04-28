@@ -1,0 +1,13 @@
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\bin\Debug\netcoreapp3.1\CrmApp.exe
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\bin\Debug\netcoreapp3.1\CrmApp.deps.json
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\bin\Debug\netcoreapp3.1\CrmApp.runtimeconfig.json
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\bin\Debug\netcoreapp3.1\CrmApp.runtimeconfig.dev.json
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\bin\Debug\netcoreapp3.1\CrmApp.dll
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\bin\Debug\netcoreapp3.1\CrmApp.pdb
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\Debug\netcoreapp3.1\CrmApp.csprojAssemblyReference.cache
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\Debug\netcoreapp3.1\CrmApp.csproj.CoreCompileInputs.cache
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\Debug\netcoreapp3.1\CrmApp.AssemblyInfoInputs.cache
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\Debug\netcoreapp3.1\CrmApp.AssemblyInfo.cs
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\Debug\netcoreapp3.1\CrmApp.dll
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\Debug\netcoreapp3.1\CrmApp.pdb
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\Debug\netcoreapp3.1\CrmApp.genruntimeconfig.cache
