@@ -68,12 +68,17 @@ namespace CrmApp
 
         public string GetRange()
         {
-            switch (Price)
-            {
-                case 0:
-                    break;
-            }
-            return null;
+            if (Price < 1)
+                return "low";
+            else if (Price < 10)
+                return "medium";
+            else
+                return "hi";
+            
+                
+                    
         }
+            
+        
     }
 }

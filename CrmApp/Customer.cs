@@ -25,6 +25,22 @@ namespace CrmApp
             Console.WriteLine(ToString());
             Console.WriteLine();
         }
+
+        public string GetRange2()
+        {
+            if (Age < 18)
+                return "Teenager";
+            
+            else
+
+                return "Adult";
+
+        }
+
+
+
+        
+        
     }
 
    
