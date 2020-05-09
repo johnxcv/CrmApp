@@ -1,0 +1,4 @@
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\MCD\Debug\netcoreapp3.1\CrmApp.csprojAssemblyReference.cache
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\MCD\Debug\netcoreapp3.1\CrmApp.csproj.CoreCompileInputs.cache
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\MCD\Debug\netcoreapp3.1\CrmApp.AssemblyInfoInputs.cache
+C:\Users\Asilv\source\repos\CrmApp\CrmApp\obj\MCD\Debug\netcoreapp3.1\CrmApp.AssemblyInfo.cs
